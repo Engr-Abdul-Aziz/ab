@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    width: fit-content;
+    margin: auto;
+}
+
+nav ul{
+     display: flex;
+    list-style: none;
+}
+
+nav ul li{
+    margin: 0px;
+}
+
+nav ul li a{
+    display: block;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 24px;
+    transition: 0.3s;
+}
+
+nav ul li a{
+    background-color:;
+    
+}

@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-box{
+    width: 130px;
+    height: 250px;
+    border: 2px solid;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 50px;
+    overflow: hidden;
+    padding: 10px;
+}
+
+.id-title{
+    border: ;
+}

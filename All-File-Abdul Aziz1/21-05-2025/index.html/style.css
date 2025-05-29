@@ -1,0 +1,51 @@
+h1{
+    color: blueviolet;
+
+    background-color: rgb(127, 255, 144);
+    
+    text-align: center;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.main-box{
+    display: flex;
+}
+
+{
+width: 250;
+   height: 250;
+    border: 15px dashed crimson;
+    float: left;
+}
+    
+.box1{
+    width: 250;
+   height: 250;
+    border: 15px solid rgb(220, 20, 60, 0.884);
+
+}
+
+.box2{
+    width: 250;
+   height: 250;
+    border: 15px solid rgb(20, 67, 220);
+
+}
+
+.box3{
+    width: 250;
+   height: 250;
+    border: 15px solid rgb(20, 220, 137);
+}
+
+.box4{
+    width: 250;
+   height: 250;
+    border: 15px solid rgb(217, 220, 20);
+}

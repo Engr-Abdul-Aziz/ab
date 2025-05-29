@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+    background-color: rgb(240, 160, 140);   
+}
+
+.content-box{
+    width: 600px;
+    height: 300px;
+    border: 5px solid black;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+    padding: 10px;
+}
+
+.content-tex{
+    margin: 15px 0;
+}
+
+header-btn{
+  padding: 10px;
+  background-color: rgb(255, 136, 0);  
+  color: white;
+  border: none;
+  top: 10%;
+  left: 10%;
+}
+
+span{
+    background-color: rgb(247, 141, 141);
+    padding: 4px;
+    border-radius: 50%;
+    color: rgb(255, 136, 0);
+    font-size: 14px;
+}
+
